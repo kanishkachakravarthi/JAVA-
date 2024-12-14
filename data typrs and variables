@@ -1,0 +1,27 @@
+java data types and variables
+
+Java is statically typed and also a strongly typed language because, in Java, 
+each type of data (such as integer, character, hexadecimal, packed decimal, and so forth) is predefined as part of the programming language and all constants 
+or variables defined for a given program must be described with one of the Java data types.
+
+Data types in Java are of different sizes and values that can be stored in the variable 
+that is made as per convenience and circumstances to cover up all test cases. Java has two categories in which data types are segregated
+
+Primitive Data Type: boolean, char, int, short, byte, long, float,
+Non-Primitive Data Type or Object Data type: such as String, Array,
+
+Primitive Data Type: such as boolean, char, int, short, byte, long, float, and double. 
+The Boolean with uppercase B is a wrapper class for the primitive data type boolean in Java.
+Non-Primitive Data Type or Object Data type: such as String, Array, etc.
+
+Primitive Data Type: boolean, char, int, short, byte, long, float,
+Non-Primitive Data Type or Object Data type: such as String, Array,
+
+Primitive Data Type: 
+boolean > True/False 
+char   > "a"
+int    > 1,2,3,4,
+float  > 2.0, 10.9, 3.0
+
+Variables:memory location Data type how needs allocate Java variable 
+datatypes together Primitive value time Reference values that
