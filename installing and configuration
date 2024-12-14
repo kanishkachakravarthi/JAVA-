@@ -1,0 +1,7 @@
+instaling java into windows
+download jdk file  → install it  → open cdrive  → program files  →java 
+this pc → right click or (#serch edit envirolmental variables)  → advanced system settings   → enviormentl variables 
+→system variables  → new  → 
+java-home:
+path → edit → %hava home%homebin →
+ok,ok 
